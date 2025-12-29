@@ -5,7 +5,7 @@ I’m actively learning frontend (HTML, CSS, JavaScript, React) and building rea
 Current skills: Jira Admin, ServiceNow, IAM, Python, SQL, HTML, CSS, JavaScript.
 
 Find my code and projects below. Let’s collaborate or connect!  
-📫 beatriz@example.com | LinkedIn: linkedin.com/in/beatrizmallea
+📫 bamal2002@gmail.com | LinkedIn: linkedin.com/in/beatrizmallea
 
 
 <!---
